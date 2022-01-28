@@ -1,0 +1,35 @@
+{
+
+"name": "SPYRO-SIR",
+
+  "description": "Lightweight WhatsApp Bot",
+
+  "repository": "https://github.com/spyro-ser-ofc/spyro",
+
+  "logo": "https://i.imgur.com/o1j6ZDM.jpeg",
+
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
+
+    "buildpacks": [
+
+        {
+
+            "url": "heroku/nodejs"
+
+        },
+
+        {
+
+            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+
+        },
+
+        {
+
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+
+        }
+
+    ]
+
+}
