@@ -8,13 +8,13 @@
 >
 </div>
 <p align="center">
-  <a href="https://instagram.com/dcodedenpa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285866295942"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ 
+
 </p>
 
 ## CARA INSTALL DI TERMUX
-```bash
-> pkg install nodejs && pkg install git
+
+install git
 > git clone https://github.com/YuzzuKamiyaka/bitch-bot
 > cd bitch-bot
 > npm install terminal-kit
@@ -38,7 +38,7 @@
 
   # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
+
 * [`Dcode-denpa`](https://github.com/dcode-denpa)
   
   
